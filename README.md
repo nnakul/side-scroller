@@ -1,4 +1,4 @@
-# ABOUT
+## ABOUT
 The project is an endless running video game in which an explorer aims at obtaining maximum score by dodging all the intervening obstacles. The main module that dictates the entire setting is *pygame*. The game starts whith a score set to zero and number of lives set to five. As the game progresses, the speed of all the components/objects on the game window increases until it reaches a saturation point. Additional information about the time it takes for the game to reach saturation and the rate at which the speeds of various components increase is mentioned in the code under the class *game*. Apart from the graphical user interface that enables the user to control the player, there are various menu options to pause/unpause the game, to pause/unpause the background music, to kill the sound effects tied to various activities and objects and to restart or close the game.
 
 ## CONTROLS
